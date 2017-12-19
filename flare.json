@@ -2,6 +2,6 @@
 {"name":"AA","size":2039,"imports":["BB","CC"]},
 {"name":"BB","size":2039,"imports":["AA","EE"]},
 {"name":"CC","size":2039,"imports":["AA"]},
-{"name":"DD","size":2039,"imports":[]},
+{"name":"DD","size":2039,"imports":["EE"]},
 {"name":"EE","size":2039,"imports":["BB"]}
 ]
