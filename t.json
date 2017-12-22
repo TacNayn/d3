@@ -1,0 +1,8 @@
+
+[
+{"name":"BB","friends":["AA","EE"]},
+{"name":"AA","friends":["BB","CC"]},
+{"name":"CC","friends":["AA"]},
+{"name":"DD","friends":["EE"]},
+{"name":"EE","friends":["BB"]}
+]
